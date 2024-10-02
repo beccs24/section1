@@ -6,3 +6,5 @@ output: html_document
 ---
 
 This is our R Markdown File
+
+Hi everyone
